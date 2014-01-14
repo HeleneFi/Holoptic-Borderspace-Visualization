@@ -11,6 +11,6 @@ How parts of a whole can see the whole evolve and the relationships between part
 
  > [Borderspaces and borderlinks such as described by Bracha Ettinger here](http://www.theoldbrandnew.nl/knowledge.html): borderspaces at the junction of things, borderlinks created via fluctuation of distance in proximity to create relations without relationships, where traces produced are shearable between subjects in trans-subjective relationships -start at 10'
  
- - Enabling navigation of the adjacent possible, discovery and learning 
+- Enabling navigation of the adjacent possible, discovery and learning 
   
  > See [Exploring the adjacent possible](https://github.com/HeleneFi/linked-data-exploration-graph): "The strange and beautiful truth about the adjacent possible is that its boundaries grow as you explore them. Each new combination opens up the possibility of other new combinations. Think of it as a house that magically expands with each door you open. You begin in a room with four doors, each leading to a new room that you haven't visited yet. Once you open one of those doors and stroll into that room, three new doors appear, each leading to a brand-new room that you couldn't have reached from your original starting point. Keep opening new doors and eventually you'll have built a palace." Stephen Johnson, The Origins of Good Ideas, WSJ Sept 2011, 
