@@ -1,7 +1,7 @@
 Holoptic Borderspace Visualization
 ==================================
 
-How parts of a whole can see the whole evolve and the relationships between parts in action, where needs can be fulfilled, and possibilities explored.
+How parts of a whole can see the whole evolve and the relationships between parts in action, where needs can be fulfilled, possibilities explored and impacts vizualized.
 
 - Giving participants of a community a live perception of the whole in various dimensions (not only social graph). 
 
