@@ -1,7 +1,7 @@
 Visualizations for Systemic Change
 ==================================
 
-How parts of a whole can see the whole evolve and the relationships between parts in action, where gaps can be identified, needs fulfilled, possibilities explored and impacts vizualized.
+Visualization of stigmergetic feedback: how parts of a whole can see the whole evolve and the relationships between parts in action, where gaps can be identified, needs fulfilled, possibilities explored and impacts vizualized. For application to stigmergetic project see [here](https://github.com/HeleneFi/VisuializingStigmergy).
 
 - Giving participants of a community a live perception of the whole in various dimensions (not only social graph). 
 
