@@ -21,3 +21,7 @@ Visualization of stigmergetic feedback: how parts of a whole can see the whole e
 - Finding overlaps and relations between object and identify synergies across multiple dimensions (it can be across disciplines, domains, projects, cultures, communities, interests...)
 
  > [Borderspaces and borderlinks such as described by Bracha Ettinger here](http://www.theoldbrandnew.nl/knowledge.html) creates trans-subjective relationships: borderspaces at the junction of things, borderlinks created via fluctuation of distance in proximity to create relations without relationships, where traces produced are shearable between subjects -start at 10'
+
+- Seing what is produced, at work, in its context, while it is produced.
+
+ > Bret Victor talks of creating [environments that nurture ideas](http://vimeo.com/36579366): Creators need an immediate connection to what they create, to see the effect of their changes immediately. We need to find new medium that can listen to our hands as we create, so that we can unlock the pieces that are locked in our heads and nurture the ideas that must be grown. We need environments in which ideas can grow and creators can nurture them. Individually and collectively.
